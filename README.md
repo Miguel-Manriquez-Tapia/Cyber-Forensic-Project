@@ -17,7 +17,7 @@
 
 
 <h2>Description</h2>
-An oil company needs a forensic investigation conducted for one of its employees named John Smith. For this prooject we are going to use Autopsy to determine if the user has taken or accessed any proprietary information from the oil company. 
+An oil company needs a forensic investigation conducted on one of its employees named John Smith. For this prooject we are going to use Autopsy to determine if the user has taken or accessed any proprietary information from the oil company. 
 <br />
 
 
@@ -44,7 +44,7 @@ An oil company needs a forensic investigation conducted for one of its employees
 2.  Create a New Case on Autopsy.
     
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_cb8fb71a.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -105,7 +105,7 @@ Case Name: JSmith\_Case
 
 Base Directory: C:/Users/LabUser/Desktop/Evidence Files
 
- ![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_a99e81ad.png)Click - Next >
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)Click - Next >
 
   
   
@@ -128,7 +128,7 @@ Base Directory: C:/Users/LabUser/Desktop/Evidence Files
   
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_793ab594.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
   
 
   
@@ -159,7 +159,7 @@ Base Directory: C:/Users/LabUser/Desktop/Evidence Files
 
 Click – Next >
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_fdb9ebca.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -211,7 +211,7 @@ Click – Disk Image or VM File
 
 Click – Next >
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_e745d2ac.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -256,7 +256,7 @@ Click – Next >
 6.  Browse to Path: C:/Users/LabUse/Desktop/Evidence Files/JSmith\_Q1.001
     
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_96b60d5.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
   
 
   
@@ -302,7 +302,7 @@ Keep selected default settings.
 
 Click – Next >
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_ff335ee4.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -346,7 +346,7 @@ Click – Next >
 
 Click - Finish
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_1c61a9aa.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
   
 
   
@@ -391,7 +391,7 @@ Click - Finish
   
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_2d718985.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -436,7 +436,7 @@ Click - Finish
   
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_af6cbf0c.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
   
 
   
@@ -483,7 +483,7 @@ Part 2:
 1.  Before starting the analysis, it is important to do an integrity check of the source and image file’s hashes. For this I used the MD5 checksum hash from JSmith\_Q1.001.txt to verify that it was an exact match to the image made for the autopsy investigation. The MD5 hash of the image on autopsy can be found in the metadata “File Metadata” tab when clicking on the image.
     
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_3f0fd59.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -534,7 +534,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_524da79.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -583,7 +583,7 @@ Part 2:
 3.  Next, we will go to the System Volume Information folder, there we will find the “Parent Volume”.
     
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_467a3774.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
 
   
 
@@ -636,7 +636,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_5c32cc28.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
 
   
 
@@ -690,7 +690,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_6953b82b.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
 
   
 
@@ -718,7 +718,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_4243d5c5.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -757,7 +757,7 @@ Part 2:
 5.  I extracted all the PDFs and JPGS to the “Export” folder, making a separate folder for the JPEGS for the sake of organization.
     
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_cd29073c.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -809,7 +809,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_4bfa4f20.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -866,8 +866,7 @@ Part 2:
   
 
   
-
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_a1324758.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -924,8 +923,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_ebb57d27.png)  
-
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -981,7 +979,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_a8155b91.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
 
   
 
@@ -1034,8 +1032,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_a344e2bb.png)  
-
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -1093,7 +1090,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_d7633e8f.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1148,7 +1145,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_d5582ada.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
 
   
 
@@ -1203,7 +1200,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_fbc9b784.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1260,7 +1257,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_aef746ee.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1310,8 +1307,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_d28fa15c.png)  
-
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
 
   
@@ -1366,7 +1362,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_a47660d2.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1419,7 +1415,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_5dfcda5f.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1477,7 +1473,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_c9f4dc52.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1532,9 +1528,8 @@ Part 2:
   
 
   
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_3626191e.png)  
-
   
 
   
@@ -1591,7 +1586,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_c3c5b071.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1650,7 +1645,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_6475cef6.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
 
   
 
@@ -1707,7 +1702,7 @@ Part 2:
 
   
 
-![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_ce62726a.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
 
   
 
@@ -1769,7 +1764,7 @@ Part 2:
 
   
 
-A3.)
+Summary:
 
   
 
