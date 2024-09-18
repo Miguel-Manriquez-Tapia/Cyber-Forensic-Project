@@ -13,36 +13,30 @@
 
 
 
+<h1>Cyber-Forensics Project</h1>
 
 
+<h2>Description</h2>
+An oil company needs a forensic investigation conducted for one of its employees named John Smith. For this prooject we are going to use Autopsy to determine if the user has taken or accessed any proprietary information from the oil company. 
+<br />
 
 
+<h2>Languages and Utilities Used</h2>
+
+- <b>Autopsy</b> 
+
+<h2>Environments Used </h2>
+
+- <b>Microsoft Virtual Machine</b> 
 
 
+<h2>Project walk-through:</h2>
 
+Part 1:
 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)Open  
 
-
-
-
-
-
-
-
-
-
-
-
-
-A1.   
-
-  
-
-Create New case on Autopsy software with for the investigation of John Smith.
-
-  
-
-1.   ![](file:///C:/Users/migue/AppData/Local/Temp/lu5414440namq.tmp/lu5414440namv_tmp_147af1fb.jpg)Open - Autopsy64 – located on the desktop as a shortcut.
+1.  Open - Autopsy64 – located on the desktop as a shortcut.
     
 
   
@@ -483,7 +477,7 @@ Click - Finish
 
   
 
-A2.)
+Part 2:
 
   
 
