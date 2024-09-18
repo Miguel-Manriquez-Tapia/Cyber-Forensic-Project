@@ -32,13 +32,12 @@ An oil company needs a forensic investigation conducted for one of its employees
 
 <h2>Project walk-through:</h2>
 
-Part 1:
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)Open  
+**Part 1:**
 
 1.  Open - Autopsy64 – located on the desktop as a shortcut.
     
 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
   
   
 
