@@ -20,6 +20,8 @@ An oil company needs a forensic investigation conducted on one of its employees 
 
 <h2>Project walk-through:</h2>
 
+*Email and my student number was redacted for privacy.
+
 **Part 1:**
 
 1.  Open - Autopsy64 – located on the desktop as a shortcut.
