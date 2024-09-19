@@ -44,56 +44,8 @@ An oil company needs a forensic investigation conducted on one of its employees 
 2.  Create a New Case on Autopsy.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191228.png)
 
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
 
   
   
@@ -104,33 +56,11 @@ An oil company needs a forensic investigation conducted on one of its employees 
 Case Name: JSmith\_Case
 
 Base Directory: C:/Users/LabUser/Desktop/Evidence Files
+<br >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)Click - Next >
+Click Next >
 
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
-  
-
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191302.png)  
   
   
 
@@ -143,7 +73,7 @@ Base Directory: C:/Users/LabUser/Desktop/Evidence Files
 \* **Add Case Number & Examiner’s Name.**
 
   
-  
+ ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191322.png)
 
   
   
@@ -157,9 +87,9 @@ Base Directory: C:/Users/LabUser/Desktop/Evidence Files
 4.  Select - Generate new host name based on data source name.
     
 
-Click – Next >
+    Click – Next >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191343.png)
   
 
   
@@ -211,7 +141,7 @@ Click – Disk Image or VM File
 
 Click – Next >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191407.png)
   
 
   
@@ -256,7 +186,7 @@ Click – Next >
 6.  Browse to Path: C:/Users/LabUse/Desktop/Evidence Files/JSmith\_Q1.001
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191434.png) 
   
 
   
@@ -302,7 +232,7 @@ Keep selected default settings.
 
 Click – Next >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191457.png)
   
 
   
@@ -341,12 +271,12 @@ Click – Next >
   
   
 
-8.  5\. Add Data Source (no action need)
+8.  Add Data Source (no action need)
     
 
 Click - Finish
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191520.png)  
   
 
   
