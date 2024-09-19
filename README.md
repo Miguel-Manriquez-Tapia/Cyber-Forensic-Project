@@ -1,18 +1,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <h1>Cyber-Forensics Project</h1>
 
 
@@ -53,19 +41,16 @@ An oil company needs a forensic investigation conducted on one of its employees 
 3.  Enter Case Information
     
 
-Case Name: JSmith\_Case
+    Case Name: JSmith\_Case
 
-Base Directory: C:/Users/LabUser/Desktop/Evidence Files
+    Base Directory: C:/Users/LabUser/Desktop/Evidence Files
 <br >
 
-Click Next >
+    Click Next >
 
    ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191302.png)  
   
-  
 
-  
-  
 
   
   
@@ -75,11 +60,7 @@ Click Next >
   
  ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191322.png)
 
-  
-  
 
-  
-  
 
   
   
@@ -94,52 +75,14 @@ Click Next >
 
   
   
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
   
 
 5.  Select Data Source Type
     
 
-Click – Disk Image or VM File
+    Click – Disk Image or VM File
 
-Click – Next >
+    Click – Next >
 
    ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191407.png)
   
@@ -188,132 +131,32 @@ Click – Next >
 
    ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191434.png) 
   
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
   
   
 
 7.  Configure Ingest
     
 
-Keep selected default settings.
+    Keep selected default settings.
 
-Click – Next >
+    Click – Next >
 
    ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191457.png)
   
 
-  
-  
 
-  
-  
 
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
 
 8.  Add Data Source (no action need)
-    
 
-Click - Finish
+
+
+    Click - Finish
 
    ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191520.png)  
   
 
-  
-  
 
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
 
 9.  We can begin the analysis now that the data sources are available, located at on the left side.
     
@@ -321,40 +164,7 @@ Click - Finish
   
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191540.png)
   
 
   
@@ -366,42 +176,7 @@ Click - Finish
   
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191557.png)  
   
 
   
@@ -413,49 +188,7 @@ Part 2:
 1.  Before starting the analysis, it is important to do an integrity check of the source and image file’s hashes. For this I used the MD5 checksum hash from JSmith\_Q1.001.txt to verify that it was an exact match to the image made for the autopsy investigation. The MD5 hash of the image on autopsy can be found in the metadata “File Metadata” tab when clicking on the image.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191615.png)
 
   
 
@@ -464,47 +197,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191636.png)
 
   
 
@@ -513,114 +206,20 @@ Part 2:
 3.  Next, we will go to the System Volume Information folder, there we will find the “Parent Volume”.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191652.png) 
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 4.  Inside the “Parent Volume” folder we see everything that is in the image for JSmith\_Q1.001. I went through and tagged the PDFs to the Investigate further folder and the photos to the notable folder.
     
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191704.png) 
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
 
   
 
@@ -630,55 +229,17 @@ Part 2:
 
   
 
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191732.png)  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
 
   
 
 \*Investigate Further Tag Folder
 
-  
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191748.png)
 
   
 
@@ -687,97 +248,13 @@ Part 2:
 5.  I extracted all the PDFs and JPGS to the “Export” folder, making a separate folder for the JPEGS for the sake of organization.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191809.png)
 
   
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191827.png)
 
   
 
@@ -788,7 +265,7 @@ Part 2:
 
   
 
-1.  “The best way to hide something, is in plain sight. Crypto laundering.”
+     “The best way to hide something, is in plain sight. Crypto laundering.”
     
 
   
@@ -796,548 +273,118 @@ Part 2:
   
 
   
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191841.png)
 
   
 
   
-
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-2.  “Transaction Mixer: How to Hide “Dirty” Bitcoins”
+7a.  “Transaction Mixer: How to Hide “Dirty” Bitcoins”
     
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191902.png)
   
 
   
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-3.  “How to buy and pay with bitcoin anonymously”
+ 7b. “How to buy and pay with bitcoin anonymously”
     
 
   
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191915.png) 
 
   
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-4.  “6 Ways To Make Untraceable Bitcoin Transactions”
+ 7c. “6 Ways To Make Untraceable Bitcoin Transactions”
     
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191928.png)
   
 
   
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-5.  “Oil Company (Labeled: CONFIDENTAIL Restricted) Oil Strategies 2021 Field 007-A”
+7d.  “Oil Company (Labeled: CONFIDENTAIL Restricted) Oil Strategies 2021 Field 007-A”
     
 
   
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191942.png)
 
   
 
   
-
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-6.  “Oil Company (Labeled: Confidential – No Release) Strategic Business – Data Management and Analytics”
+7e. “Oil Company (Labeled: Confidential – No Release) Strategic Business – Data Management and Analytics”
     
 
   
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191957.png) 
 
   
 
   
-
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-7.  “Oil Company (Labeled: CONFIDENTIAL Restricted) Business Strategies 2021”
+7f. “Oil Company (Labeled: CONFIDENTIAL Restricted) Business Strategies 2021”
     
 
   
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192009.png)
 
   
 
-  
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-7.  The JPEGS found on the image are the following:
+ 7.1 The JPEGS found on the image are the following:
     
 
   
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+7.1.a   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192026.png)
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
   
 
+7.1.b   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192045.png)
   
 
   
 
-  
 
-  
+7.1.c   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192105.png)
 
-  
 
   
 
   
-
 8.  Next, we looked at the metadata of the files to look for the owner of the PDFs. The owner of the PDFs “Oil Company data strategy”, “Business Strategy”, and “Drilling Methodology” is Mike Morris.
     
 
@@ -1345,226 +392,14 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192138.png)
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192205.png)
 
   
 
@@ -1575,54 +410,9 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192221.png)  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+   
   
 
 10.  Lastly, we ran a keyword search on the saved image for “confidential” and found this:
@@ -1632,67 +422,11 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/last.png)
 
   
 
-  
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 Summary:
 
