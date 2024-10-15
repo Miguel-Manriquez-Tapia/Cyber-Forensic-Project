@@ -27,14 +27,14 @@ An oil company needs a forensic investigation conducted on one of its employees 
 1.  Open - Autopsy64 – located on the desktop as a shortcut.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/1st.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/1st.png)
   
   
 
 2.  Create a New Case on Autopsy.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191228.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191228.png)
 
 
   
@@ -50,7 +50,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
 
     Click Next >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191302.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191302.png)  
   
 
 
@@ -60,7 +60,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
 \* **Add Case Number & Examiner’s Name.**
 
   
- ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191322.png)
+ ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191322.png)
 
 
 
@@ -72,7 +72,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
 
     Click – Next >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191343.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191343.png)
   
 
   
@@ -86,7 +86,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
 
     Click – Next >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191407.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191407.png)
   
 
   
@@ -131,7 +131,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
 6.  Browse to Path: C:/Users/LabUse/Desktop/Evidence Files/JSmith\_Q1.001
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191434.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191434.png) 
   
   
   
@@ -143,7 +143,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
 
     Click – Next >
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191457.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191457.png)
   
 
 
@@ -155,7 +155,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
 
     Click - Finish
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191520.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191520.png)  
   
 
 
@@ -166,7 +166,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
   
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191540.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191540.png)
   
 
   
@@ -178,7 +178,7 @@ An oil company needs a forensic investigation conducted on one of its employees 
   
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191557.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191557.png)  
   
 
   
@@ -190,7 +190,7 @@ Part 2:
 1.  Before starting the analysis, it is important to do an integrity check of the source and image file’s hashes. For this I used the MD5 checksum hash from JSmith\_Q1.001.txt to verify that it was an exact match to the image made for the autopsy investigation. The MD5 hash of the image on autopsy can be found in the metadata “File Metadata” tab when clicking on the image.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191615.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191615.png)
 
   
 
@@ -199,7 +199,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191636.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191636.png)
 
   
 
@@ -208,7 +208,7 @@ Part 2:
 3.  Next, we will go to the System Volume Information folder, there we will find the “Parent Volume”.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191652.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191652.png) 
 
   
 
@@ -218,7 +218,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191704.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191704.png) 
 
   
 
@@ -231,7 +231,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191732.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191732.png)  
 
 
   
@@ -241,7 +241,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191748.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191748.png)
 
   
 
@@ -250,13 +250,13 @@ Part 2:
 5.  I extracted all the PDFs and JPGS to the “Export” folder, making a separate folder for the JPEGS for the sake of organization.
     
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191809.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191809.png)
 
   
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191827.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191827.png)
 
   
 
@@ -275,7 +275,7 @@ Part 2:
   
 
   
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191841.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191841.png)
 
   
 
@@ -287,7 +287,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191902.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191902.png)
   
 
   
@@ -301,7 +301,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191915.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191915.png) 
 
   
 
@@ -312,7 +312,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191928.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191928.png)
   
 
   
@@ -326,7 +326,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191942.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191942.png)
 
   
 
@@ -340,7 +340,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20191957.png) 
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20191957.png) 
 
   
 
@@ -354,7 +354,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192009.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20192009.png)
 
   
 
@@ -368,20 +368,20 @@ Part 2:
 
   
 
-7.1.a   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192026.png)
+7.1.a   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20192026.png)
 
   
 
 
   
 
-7.1.b   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192045.png)
+7.1.b   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20192045.png)
   
 
   
 
 
-7.1.c   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192105.png)
+7.1.c   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20192105.png)
 
 
   
@@ -394,14 +394,14 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192138.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20192138.png)
 
   
 
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192205.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20192205.png)
 
   
 
@@ -412,7 +412,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/Screenshot%202024-09-18%20192221.png)  
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/Screenshot%202024-09-18%20192221.png)  
 
    
   
@@ -424,7 +424,7 @@ Part 2:
 
   
 
-   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/last.png)
+   ![image alt](https://github.com/Miguel-Manriquez-Tapia/Cyber-Forensic-Project/blob/main/image/last.png)
 
   
 
